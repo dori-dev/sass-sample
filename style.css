@@ -3,6 +3,10 @@ body {
   color: #333;
 }
 
+.invert {
+  background-color: #333;
+}
+
 nav ul {
   margin: 0;
   padding: 0;
