@@ -21,6 +21,20 @@ body {
   color: #fff;
 }
 
+.warning, .error, .message {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333;
+}
+
+.error {
+  border-color: red;
+}
+
+.warning {
+  border-color: yellow;
+}
+
 .invert {
   background-color: #333;
 }
